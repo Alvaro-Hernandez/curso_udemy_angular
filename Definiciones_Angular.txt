@@ -1,0 +1,5 @@
+Curso de angular
+Banderas al crear un proyecto
+--no-strict nos permite trabajar un proyecto de angular de una manera menos estricta
+--standalone false/true nos permite trabajar con modulos independientes dependiendo de como lo usemos
+--routing false/true nos permite trabajar las rutas de nuestro aplicacion en angular
